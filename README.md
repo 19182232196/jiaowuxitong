@@ -1,3 +1,3 @@
 # jiaowuxitong
-taskkill /PID 17148 /F /n
+taskkill /PID 17148 /F   
 npm run serve
