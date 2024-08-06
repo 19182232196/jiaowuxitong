@@ -1,3 +1,4 @@
 # jiaowuxitong
-taskkill /PID 17148 /F   
+netstat -ano | findstr :9090  
+
 npm run serve
